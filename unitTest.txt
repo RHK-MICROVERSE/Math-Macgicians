@@ -1,0 +1,32 @@
+Step 1:
+npm install --save-dev jest 
+add the following in the package.jason:
+{
+  "scripts": {
+    "test": "jest"
+  }
+}
+
+
+Step 2:
+npm install jest-environment-jsdom 
+
+Step 3:
+npm install --save-dev @babel/plugin-transform-modules-commonjs
+Create a file named .babelrc and put the following inside the file:
+{
+  "env": {
+    "test": {
+      "plugins": [
+        "@babel/plugin-transform-modules-commonjs"
+      ]
+    }
+  }
+}
+
+Step 4:
+ npm i jest-environment-jsdom 
+ add the following inside the package.json:
+   "jest": {
+    "testEnvironment": "jsdom"
+  }
