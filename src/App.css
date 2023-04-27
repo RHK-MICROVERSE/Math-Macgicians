@@ -19,7 +19,7 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 400px;
-  background-color: rgb(224,224,224);
+  background-color: rgb(224, 224, 224);
 }
 
 .calculator-screen {
@@ -27,7 +27,7 @@ html {
   font-size: 5rem;
   height: 80px;
   border: none;
-  background-color: rgb(133,134,147);
+  background-color: rgb(133, 134, 147);
   color: #fff;
   text-align: right;
   padding-right: 20px;
@@ -36,7 +36,7 @@ html {
 
 button {
   height: 60px;
-  background-color: rgb(224,224,224);
+  background-color: rgb(224, 224, 224);
   border-radius: 3px;
   border: 1px solid #c4c4c4;
   font-size: 2rem;
@@ -52,7 +52,7 @@ button:hover {
 
 .operator {
   color: #fff;
-  background-color: rgb(245,145,62);
+  background-color: rgb(245, 145, 62);
 }
 
 .operator:hover {
@@ -69,8 +69,8 @@ button:hover {
 }
 
 .equal-sign {
-  background-color: rgb(245,145,62);
-  border-color: rgb(245,145,62);
+  background-color: rgb(245, 145, 62);
+  border-color: rgb(245, 145, 62);
   color: #fff;
   height: 100%;
 }
