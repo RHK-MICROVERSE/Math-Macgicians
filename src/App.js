@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import {
+  // eslint-disable-next-line no-unused-vars
+  BrowserRouter,
+  // eslint-disable-next-line no-unused-vars
+  Routes,
+  Route,
+} from 'react-router-dom';
+import Calculator from './components/myCalculator.js';
+import Home from './webPages/home.js';
+import Quotes from './webPages/quotes.js';
+import Navigation from './components/navigation.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/quotes" element={<Quotes />} />
+        <Route path="/Calculator" element={<Calculator />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
