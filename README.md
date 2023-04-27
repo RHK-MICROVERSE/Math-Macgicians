@@ -45,16 +45,16 @@
 I will start by building the core functionalities. At the very beginning the Ib will look similar to the UI below. Note that it will allow to add like and comment. HoIver I have not added the reservation system.
 
 <p align="center">
-  <img src="./images/calculator_image_one" alt="Basic UI" width="300px" />
+  <img src="./images/calculator_image_one.png" alt="Basic UI" width="300px" />
 </p>
 <p align="center">
-  <img src="./images/calculator_image_two" alt="Basic UI" width="300px" />
+  <img src="./images/calculator_image_two.png" alt="Basic UI" width="300px" />
 </p>
 <p align="center">
-  <img src="./images/calculator_image_three" alt="Basic UI" width="300px" />
+  <img src="./images/calculator_image_three.png" alt="Basic UI" width="300px" />
 </p>
 <p align="center">
-  <img src="./calculator_image_four" alt="Basic UI" width="300px" />
+  <img src="./calculator_image_four.png" alt="Basic UI" width="300px" />
 </p>
 
 
