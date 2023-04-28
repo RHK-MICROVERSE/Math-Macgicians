@@ -95,8 +95,11 @@ Exercise: Deploy.
 - <a href="https://create-react-app.dev/">Installation of React App</a>
 - Imeplementation of Basic Framework linters error free. 
 
-***feature-two***
-- Implementation of <a href="https://github.com/Ibpack/Ibpack">Webpack Framework</a>
+***feature-one-extension***
+- Implementation of Removing all the boilplate from Create React App (text, images, styles)
+
+***feature-three***
+- Implementation add event
 
 ### Tech Stack <a name="tech-stack"></a>
 
