@@ -101,6 +101,11 @@ Exercise: Deploy.
 ***feature-three***
 - Implementation add event
 
+***feature-four***
+- Use the correct React hook when fetching data
+- Connect to an API within a functional component
+- Show different UI outputs depending on the component state
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
