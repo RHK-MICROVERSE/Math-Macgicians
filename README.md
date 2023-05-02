@@ -54,7 +54,7 @@ I will start by building the core functionalities. At the very beginning the Ib 
   <img src="./images/calculator_image_three.png" alt="Basic UI" width="300px" />
 </p>
 <p align="center">
-  <img src="./calculator_image_four.png" alt="Basic UI" width="300px" />
+  <img src="./images/calculator_image_four.png" alt="Basic UI" width="300px" />
 </p>
 
 
