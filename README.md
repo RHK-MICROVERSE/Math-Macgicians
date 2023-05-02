@@ -106,6 +106,12 @@ Exercise: Deploy.
 - Connect to an API within a functional component
 - Show different UI outputs depending on the component state
 
+***feature-five***
+- Implemented Home page, Calculator page and quotes page and style
+- Used the React Router for the implementation
+- Sometime the <a href="https://api-ninjas.com/api/quotes">API Ninjas</a> does not work 
+
+
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
